@@ -1,0 +1,23 @@
+
+main.thietbi .container{
+    margin-bottom: 60px;
+}
+main.thietbi .container div.row div.col-sm-9{
+    text-align: justify;
+}
+main.thietbi .container .col-sm-3 ul{
+    list-style-type:  none;
+}
+main.thietbi .container .col-sm-3 ul li{
+    border-bottom: 1px solid #F0F0F0 ;
+}
+main.thietbi .container .col-sm-3 ul li > a{
+    color:black;
+    padding: 10px;
+}
+main.thietbi .container .col-sm-3 ul li > i{
+    margin-right: 10px;padding: 10px;
+}
+main.thietbi .container .col-sm-3 ul li:hover{
+    background-color: #F0F0F0;
+}

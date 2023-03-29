@@ -1,0 +1,45 @@
+
+.loaiphong section{
+    background-image: url('../imgs/bg-ktx.jpg');
+    background-position: center;
+    margin-bottom: 15px;
+    padding: 120px 0;
+    height: 300px;
+}
+.loaiphong .nav{
+    background-color: #DDDDDD;
+    border-radius: 2.5%;
+}
+.loaiphong .nav div > a{
+    font-weight: bold;
+}
+.loaiphong .nav div > a:hover{
+    color:aliceblue;
+}
+.loaiphong .container:last-child .row {
+    margin-bottom: 25px;
+    padding-bottom: 20px ;
+}
+
+.loaiphong .container:last-child .row .col img{
+    height: 378px;
+    width: 378px;
+    margin-bottom: 25px;
+}
+.loaiphong .container:last-child .row .col:hover img{
+    transform: scale(1.05);
+}
+.loaiphong .container:last-child .row .col:hover div.gia_soluong .gia{
+    background-color: #070707;
+}
+.loaiphong .container:last-child .row .col div.gia_soluong .gia{
+    background-color: rgba(33, 37, 41, 0.9);
+    color: #FFFFFf;
+    font-weight: bold;
+    padding: 15px;
+}
+.loaiphong .container:last-child .row .col div.gia_soluong .soluong{
+    background-color: #2892D0;
+    color: #FFFFFf;font-weight: bold;
+    padding: 5px;
+}

@@ -1,0 +1,33 @@
+
+.gioithieu section{
+    background-image: url('../imgs/bg-cn.jpg');
+    background-position: center;
+    margin-bottom: 15px;
+    padding: 120px 0;
+    height: 300px;
+}
+.gioithieu .nav{
+    background-color: #DDDDDD;
+    border-radius: 2.5%;
+}
+.gioithieu .nav div > a{
+    font-weight: bold;
+}
+.gioithieu .nav div > a:hover{
+    color:aliceblue;
+}
+.gioithieu .container:last-child .row {
+    margin-bottom: 25px;
+    border-bottom: 1px solid ;
+    padding-bottom: 20px ;
+}
+.gioithieu .container:last-child .row:last-child{
+    border-bottom: none;
+}
+.gioithieu .container:last-child .row .col-sm-3 img{
+    width: 268.9px;
+    height: 164.73px;
+}
+.abc{
+    font-size:15px;padding-left:25px;margin-bottom:20px;
+}
